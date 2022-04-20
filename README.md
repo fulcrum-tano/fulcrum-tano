@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fulcrum-tano
+- 👋 Hi, I’m @psmack
 - 💞️ I’m a foodie, coffee addict, and developer
 - 🌱 I’m currently learning python and web development
 - 👀 This is where I do fun things
