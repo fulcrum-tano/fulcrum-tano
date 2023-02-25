@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  width="65%" height="65%" src="https://github.com/psmack/psmack/blob/main/banner%20.png"/ >
+  <img  width="80%" height="80%" src="https://github.com/psmack/psmack/blob/main/banner%20.png"/ >
   <hr></hr>
 </p>
  
