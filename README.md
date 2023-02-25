@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://github.com/psmack/psmack/blob/main/banner%20.png"/ >
+  <hr></hr>
+</p>
+ 
+<p align="center">
   <samp>
     Hi, I'm @psmack 👋 <br>
     💞️ I’m a foodie, coffee addict, and developer <br>
