@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @psmack
-- 💞️ I’m a foodie, coffee addict, and developer
-- 🌱 I’m currently learning python and web development
-- 👀 This is where I do fun things
-
+<p align="center">
+  <samp>
+    Hi, I'm @psmack 👋 <br>
+    💞️ I’m a foodie, coffee addict, and developer <br>
+    :sparkles: Languages: C, Python, Javascript, React, Vue ... <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/pailin-mack <br>
+  </samp>
+</p>
 
 <!---
 psmack/psmack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
