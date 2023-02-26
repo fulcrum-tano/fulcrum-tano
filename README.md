@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img  width="80%" height="80%" object-fit: fill src="https://github.com/psmack/psmack/blob/main/banner%20.png"/ >
+  <img  width="80%" height="80%" object-fit: fill src="https://github.com/psmack/psmack/blob/main/asset/banner%20.png"/ >
 </div>
  
 <div align="center">
