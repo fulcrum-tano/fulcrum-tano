@@ -19,7 +19,7 @@
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-sql.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-js.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-html.png">
-    <img src="https://github.com/psmack/psmack/blob/main/asset/icon-css.png">
+    <img src="https://github.com/psmack/psmack/blob/main/asset/icon-css.png"><br>
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-r.png">
   </div>
   
