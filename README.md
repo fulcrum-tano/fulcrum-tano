@@ -20,6 +20,7 @@
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-js.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-html.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-css.png">
+    <img src="https://github.com/psmack/psmack/blob/main/asset/icon-r.png">
   </div>
   
   <div>
@@ -42,6 +43,8 @@
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-docker.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-git.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-rasp-pi.png">
+    <img src="https://github.com/psmack/psmack/blob/main/asset/icon-rstudio.png">
+    <img src="https://github.com/psmack/psmack/blob/main/asset/icon-tableau.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-vscode.png">
   </div>
 </div>
