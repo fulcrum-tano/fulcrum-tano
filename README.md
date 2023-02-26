@@ -5,8 +5,10 @@
  
 <div align="center">
   <div>
+    <br />
     Hi, I'm @psmack 👋 <br>
     💞️ I’m a foodie, coffee addict, and developer <br>
+    💼 LinkedIn: https://linkedin.com/in/pailin-mack
   </div>
   
   <h2></h2>
