@@ -39,7 +39,7 @@
   </div>
   
   <div>
-    <h4> :toolbox: Tools :toolbox: </h4>
+    <h4> :toolbox: Platforms and Tools :toolbox: </h4>
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-docker.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-git.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-rasp-pi.png">
