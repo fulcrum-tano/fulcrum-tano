@@ -25,6 +25,7 @@
   
   <div>
     <h4> ⚙️ Frameworks and Libraries ⚙️ </h4>
+    <img src="https://github.com/psmack/psmack/blob/main/asset/icon-electron.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-nodejs.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-react.png">
     <img src="https://github.com/psmack/psmack/blob/main/asset/icon-vue.png">
